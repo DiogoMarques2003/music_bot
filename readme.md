@@ -5,7 +5,7 @@
 Os requesitos para este bot são: 
 
 - [Java](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html)
-- [node.js](https://nodejs.org/en/download/)
+- [Node.js](https://nodejs.org/en/download/)
 
 ## 💻 Projeto
 
