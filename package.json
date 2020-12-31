@@ -1,21 +1,21 @@
 {
   "name": "music_bot",
   "version": "1.0.0",
-  "description": "Um bot de musica feito usando lava link",
+  "description": "Um bot de musica para o Discord.js V12 feito usando lava link",
   "main": "bot.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DiogoMarques2003/discord.js-musicbot.git"
+    "url": "git+https://github.com/DiogoMarques2003/music_bot.git"
   },
   "author": "𝕯𝖎𝖔𝖌𝖔#3789",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/DiogoMarques2003/discord.js-musicbot/issues"
+    "url": "https://github.com/DiogoMarques2003/music_bot/issues"
   },
-  "homepage": "https://github.com/DiogoMarques2003/discord.js-musicbot#readme",
+  "homepage": "https://github.com/DiogoMarques2003/music_bot#readme",
   "dependencies": {
     "discord.js": "^12.5.1",
     "erela.js": "^1.1.8"
