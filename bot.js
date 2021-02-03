@@ -28,7 +28,7 @@ client.on("ready", () => {
         password: "password"
     }]
 
-    //criar o cliente do lavalink
+    //criar o construtor do lavalink
     client.music = new ErelaClient(client, nodes, { autoPlay: true });
 
     //logs do lavalink 
