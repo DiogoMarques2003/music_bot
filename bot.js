@@ -17,9 +17,7 @@ client.aliases = new Discord.Collection();
 
 client.on("ready", () => {
     console.log(`Bot foi iniciado, com ${client.users.cache.size} usuários, em ${client.channels.cache.size} canais, em ${client.guilds.cache.size} servidores.`);
-    
-    console.log("oi");
-    
+        
     client.user.setPresence({ activity: { name: 'Pronto para ser seu DJ 📀' }, status: 'WATCHING' });
 
     //configuração do sistema do lavalink
