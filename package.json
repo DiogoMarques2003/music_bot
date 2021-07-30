@@ -18,6 +18,6 @@
   "homepage": "https://github.com/DiogoMarques2003/music_bot#readme",
   "dependencies": {
     "discord.js": "^12.5.1",
-    "erela.js": "^1.1.8"
+    "erela.js": "^2.1.1"
   }
 }
